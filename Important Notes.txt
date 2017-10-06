@@ -1,0 +1,51 @@
+Command Prompt:
+	\\ntbomfs001\datagrp\BAA\MumbaiPegaTeam
+
+
+Citrix credenials:lagarg
+		  Acdm@123
+
+
+
+clarity credentials: Username-     CapGemini network logon ID 
+	             Password-      CapGemini network logon Password
+		
+
+
+Remedy app credentials: lagarg
+			lagarg
+
+BAA Credentials: 
+		Username:	UKBAA\LHRGARGL
+		Password:	fH>OCB}7
+
+Mobile Pass: token pin:1234
+
+
+Some links: https://ctx-gio-t2-lcy.cgadmin.cgaoms.ad/Citrix/XenApp/auth/login.aspx 
+	    https://ctx-gio-t2-brt.cgadmin.cgaoms.ad/Citrix/XenApp/auth/loggedout.aspx?CTX_MessageType=INFORMATION&CTX_MessageKey=SessionExpired 
+	    https://cgbaa.onbmc.com/arsys/shared/login.jsp?/arsys/forms/onbmc-s/SHR%3ALandingConsole/Default+Administrator+View/> 
+
+
+Common shared folder: \\DIN16004220
+		      \\DIN16004220\Recordings
+
+IRIS password has been changed
+*preprod
+baupegasupport/Sep@2017 
+Username/Paswd
+
+HAL Credentials:
+		Username:	lalak_garg@baa.com
+		Password:	Acdm@123
+
+Learnt 3 things:
+		Daily TSAT Report
+		monthly capacity planning
+		AOP Pre Prod Health Check
+
+ACDM Prod PEGA1 CREDENTIALS: cdmpoweruser1/rules
+
+LHRAPP CREDENTIALS : CAPADMJainA/Pass@234
+
+
